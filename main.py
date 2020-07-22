@@ -11,8 +11,6 @@ def sort(arr):
         print(arr[i+2]) 
         # print(s_highest)
         # print(highest)
-        if i == 1 or i == 0: 
-            continue
         # if arr[i + 2] > s_highest and arr[i + 2] < highest:
         #     s_highest = arr[i + 2]
         if (arr[i + 2] > highest):
